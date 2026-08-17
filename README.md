@@ -1,13 +1,20 @@
-# HR-Analytics-Workforce-Insights-PowerBI
-Interactive Power BI dashboard for analyzing workforce demographics, employee performance, attrition, and retention using HR analytics.
-# HR Analytics & Workforce Insights Dashboard
+# HR Analytics & Workforce Insights | Power BI Internship Project
 
-## 📊 Project Overview
+## 🏢 Internship Project — Ingot
 
-An interactive **Power BI HR Analytics Dashboard** designed to analyze workforce demographics, employee performance, attrition, and retention.
+This project was developed as part of my internship at **Ingot**, where I worked on analyzing HR data and building an interactive **Power BI dashboard** to provide insights into workforce structure, employee performance, attrition, and retention.
 
-The dashboard transforms HR data into interactive visualizations and KPIs to help identify workforce patterns and understand factors associated with employee attrition.
+## 🎯 Project Objectives
 
+The main objectives of this project were to:
+
+- Analyze workforce demographics
+- Monitor employee headcount
+- Analyze employee attrition and retention
+- Identify attrition patterns across departments and job roles
+- Analyze employee satisfaction and performance
+- Create interactive HR KPIs and visualizations
+- Transform raw HR data into meaningful business insights
 ---
 
 ## 🎯 Business Objectives
@@ -24,13 +31,13 @@ The dashboard transforms HR data into interactive visualizations and KPIs to hel
 
 ## 🛠️ Tools & Technologies
 
-* **Power BI**
-* **Power Query**
-* **DAX**
-* **Data Modeling**
-* **Data Cleaning & Transformation**
-* **Data Visualization**
-* **HR Analytics**
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Cleaning & Transformation
+- Data Modeling
+- Data Visualization
+- HR Analytics
 
 ---
 
@@ -122,4 +129,5 @@ The Power BI report is available in this repository:
 **`HR Dasbord.pbix`**
 
 Built with **Microsoft Power BI**.
+
 
