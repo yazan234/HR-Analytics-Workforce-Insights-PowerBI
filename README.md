@@ -1,2 +1,125 @@
 # HR-Analytics-Workforce-Insights-PowerBI
 Interactive Power BI dashboard for analyzing workforce demographics, employee performance, attrition, and retention using HR analytics.
+# HR Analytics & Workforce Insights Dashboard
+
+## 📊 Project Overview
+
+An interactive **Power BI HR Analytics Dashboard** designed to analyze workforce demographics, employee performance, attrition, and retention.
+
+The dashboard transforms HR data into interactive visualizations and KPIs to help identify workforce patterns and understand factors associated with employee attrition.
+
+---
+
+## 🎯 Business Objectives
+
+* Monitor total employee headcount
+* Analyze employee attrition and retention
+* Understand workforce distribution by department and job role
+* Analyze employee demographics
+* Identify job roles with higher attrition
+* Analyze the relationship between job satisfaction and attrition
+* Compare employee headcount across age groups and gender
+
+---
+
+## 🛠️ Tools & Technologies
+
+* **Power BI**
+* **Power Query**
+* **DAX**
+* **Data Modeling**
+* **Data Cleaning & Transformation**
+* **Data Visualization**
+* **HR Analytics**
+
+---
+
+## 📑 Dashboard Pages
+
+### 1. HR Workforce Overview
+
+Provides a high-level overview of the workforce, including:
+
+* Total Employees
+* Attrition Rate
+* Average Monthly Income
+* Average Performance Rating
+* Average Age
+* Employees by Department
+* Employees by Job Level
+* Employees by Age Group
+* Attrition by Department
+* Attrition by Gender
+
+### 2. Attrition & Retention Analysis
+
+Focuses on employee turnover and retention:
+
+* Total Attrition Employees
+* Employee Attrition Rate
+* Retention Rate
+* Attrition by Job Role
+* Attrition by Gender
+* Attrition by Marital Status
+* Attrition by Business Travel
+* Job Satisfaction & Attrition
+* Employee Headcount by Age Group & Gender
+
+---
+
+## 📸 Dashboard Preview
+
+### HR Workforce Overview
+
+![HR Workforce Overview](HR_Overview.png)
+
+### Attrition & Retention Analysis
+
+![Attrition & Retention](Attrition_Retention.png)
+
+---
+
+## 📈 Key Insights
+
+The dashboard provides an interactive way to explore workforce patterns and identify areas that may require further HR investigation.
+
+Users can analyze employee data using filters such as:
+
+* Gender
+* Department
+* Job Role
+* Marital Status
+* Business Travel
+* Age Group
+
+---
+
+## 💡 Skills Demonstrated
+
+This project demonstrates practical experience in:
+
+* Data cleaning and transformation
+* Data modeling
+* DAX measure development
+* KPI creation
+* Interactive dashboard development
+* Business-oriented data analysis
+* HR analytics
+* Data visualization
+
+---
+
+## 🚀 Project Outcome
+
+The project demonstrates how Power BI can transform raw HR data into an interactive analytical solution that supports workforce monitoring and HR decision-making.
+
+---
+
+## 📁 Project File
+
+The Power BI report is available in this repository:
+
+**`HR Dasbord.pbix`**
+
+Built with **Microsoft Power BI**.
+
